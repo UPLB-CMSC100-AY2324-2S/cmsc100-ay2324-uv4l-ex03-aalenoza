@@ -78,5 +78,5 @@ function storePassword(name, password1, password2) { //store password
     }
 }
 
-console.log(storePassword("aaron","Password1","Password1"))
+console.log(storePassword(username,password1,password2))
 
