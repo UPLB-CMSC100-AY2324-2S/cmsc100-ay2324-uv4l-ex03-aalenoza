@@ -1,8 +1,8 @@
 //Exercise 3 - JS Part 1
 
-const password1 = "blank";
-const password2 = "blank";
-const username = "blank";
+const password1 = "Qawsedrf";
+const password2 = "Qawsedrf";
+const username = "Aaron";
 
 
 
